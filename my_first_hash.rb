@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Below is my solution going through phase 1 the first time above is my 2nd time through. 
+
+
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   my_hash = {"Juiceland sweat shirt" => "sweatshirt",
